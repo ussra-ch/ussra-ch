@@ -28,7 +28,7 @@ Implemented various short path algorithms in C to optimize route planning and na
 
 ## Skills
 
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python, C, SQL
 - **Frameworks:** Laravel
 - **Tools:** Git, VS Code
 - **Data Analysis:** visualization, statistical analysis
